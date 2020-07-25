@@ -1,2 +1,0 @@
-# drawing-interpreter
-for testing

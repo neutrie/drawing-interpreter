@@ -1,0 +1,96 @@
+change, canvas color, lightblue
+
+change, width, 25
+change, color, brown
+draw, line, 400, 575, 400, 550
+
+change, width, 10
+change, color, green
+
+draw, line, 200, 550, 600, 550
+draw, line, 210, 540, 590, 540
+draw, line, 220, 530, 580, 530
+draw, line, 230, 520, 570, 520
+draw, line, 240, 510, 560, 510
+draw, line, 250, 500, 550, 500
+draw, line, 260, 490, 540, 490
+draw, line, 270, 480, 530, 480
+draw, line, 280, 470, 520, 470
+draw, line, 290, 460, 510, 460
+draw, line, 300, 450, 500, 450
+draw, line, 310, 440, 490, 440
+draw, line, 320, 430, 480, 430
+draw, line, 330, 420, 470, 420
+draw, line, 340, 410, 460, 410
+draw, line, 350, 400, 450, 400
+draw, line, 360, 390, 440, 390
+
+draw, line, 280, 380, 520, 380
+draw, line, 290, 370, 510, 370
+draw, line, 300, 360, 500, 360
+draw, line, 310, 350, 490, 350
+draw, line, 320, 340, 480, 340
+draw, line, 330, 330, 470, 330
+draw, line, 340, 320, 460, 320
+draw, line, 350, 310, 450, 310
+draw, line, 360, 300, 440, 300
+
+draw, line, 320, 290, 480, 290
+draw, line, 330, 280, 470, 280
+draw, line, 340, 270, 460, 270
+draw, line, 350, 260, 450, 260
+draw, line, 360, 250, 440, 250
+draw, line, 370, 240, 430, 240
+draw, line, 380, 230, 420, 230
+draw, line, 390, 220, 410, 220
+draw, line, 400, 210, 400, 210
+
+change, width, 15
+
+change, color, red
+draw, circle, 440, 520, 5
+
+change, color, blue
+draw, circle, 360, 470, 3
+
+change, color, cyan
+draw, circle, 390, 325, 3
+
+change, width, 8
+
+change, color, magenta
+draw, circle, 415, 415, 3
+
+change, color, orange
+draw, circle, 325, 533, 4
+
+change, width, 12
+change, color, yellow
+
+draw, equilateral triangle, 400, 210, 36
+
+change, width, 6
+change, color, orange
+
+draw, equilateral triangle, 400, 210, 18
+
+change, width, 3
+change, color, brown
+
+draw, equilateral triangle, 400, 210, 6
+
+reset, color
+reset, width
+
+draw, line, 750, 590, 750, 580
+draw, line, 750, 585, 757, 590
+draw, line, 750, 585, 757, 580
+
+draw, line, 760, 590, 760, 580
+draw, line, 760, 580, 767, 580
+draw, line, 760, 585, 767, 585
+draw, line, 760, 590, 767, 590
+
+draw, line, 770, 590, 770, 580
+draw, line, 770, 585, 777, 590
+draw, line, 770, 585, 777, 580

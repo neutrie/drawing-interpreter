@@ -1,0 +1,18 @@
+change, canvas color, gray
+change, color, blue
+change, width, 3.5
+draw, line, 0, 0, 20, 20
+change, color, purple
+draw, triangle, 30, 30, 20, 50, 40, 50
+reset, color
+change, width, 2
+draw, equilateral triangle, 100, 100, 15
+#reset, canvas color
+reset, width
+change, color, green
+draw, rectangle, 200, 200, 50, 20
+draw, square, 200, 400, 30
+draw, ellipse, 500, 500, 25, 50
+change, width, 4
+draw, circle, 700, 500, 15
+#reset, all
